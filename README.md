@@ -11,3 +11,6 @@ Idag har vi inte ägnat särskilt mycket tid till projektet. Vi har istället l�
 
 Vecka 15:
 Idag har vi gjort ändringar på våra wireframes och även tittat över olika färdiga komponenter på Bootstrap och även läst på om CSS Grid. Vår Style Guide är mer eller mindre färdiga men det finns fortfarande oklarheter gällande vårt pattern library. 
+
+Vecka 16: 
+Vid detta tillfälle kände vi oss färdiga med planeringsstadiet och skickade in vår Style Guide. Därefter påbörjades konstruktionen av en preliminär layout med hjälp av grid.
