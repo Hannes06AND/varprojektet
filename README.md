@@ -14,3 +14,6 @@ Idag har vi gjort ändringar på våra wireframes och även tittat över olika f
 
 Vecka 16: 
 Vid detta tillfälle kände vi oss färdiga med planeringsstadiet och skickade in vår Style Guide. Därefter påbörjades konstruktionen av en preliminär layout med hjälp av grid.
+
+Vecka 17:
+Idag har vi lagt in bilder med länkar till olika sociala medier i vår footer och vi har även börjat applicera Bootstrap Grid på våran layout för hemsidan.
