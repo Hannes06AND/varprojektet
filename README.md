@@ -21,4 +21,5 @@ Idag har vi lagt in bilder med länkar till olika sociala medier i vår footer o
 Vecka 18:
 Idag har vi mer eller mindre slutfört vår layout för hemsidan och löst våra problem med Bootstrap Grid. Vi har även uppdaterat katalogen i Github
 med alla nya filer. Det sista vi har kvar av konstruktionsstadiet är att lägga in ett kommentarsystem samt göra klart sidans underkategorier och lägga in
-några enstaka Bootstrap komponenter.
+några enstaka Bootstrap komponenter. Vi har även gjort den inlänkade reklamfilmen responsiv så att det aldrig blir bredare än hemsidan utan anpassar sig istället 
+till storleken på sidan.
