@@ -20,7 +20,7 @@ Idag har vi lagt in bilder med länkar till olika sociala medier i vår footer o
 
 Vecka 18:
 Idag har vi färdigställt vår layout för hemsidan och löst våra problem med Bootstrap Grid. Vi har även uppdaterat katalogen i Github
-med alla nya filer. Vi har också lagt in våra digitala visitkort under "Our Team". Vi hämtade "cards" från Bootstrap och använde flexbox för att få dessa att lägga sig ovanpå varandra
-när hemsidan blir för smal. Samma sak har vi gjort med logotyperna i vår footer, nu finns det alltså inga element som går utanför hemsidan på bredden.
-Vi har även gjort den inlänkade reklamfilmen responsiv så att det aldrig blir bredare än vad hemsidan är. Det sista vi har kvar av konstruktionsstadiet är att 
+med alla nya filer. Jag har också lagt in våra digitala visitkort under "Our Team". Vi hämtade "cards" från Bootstrap och använde flexbox för att få dessa att lägga sig ovanpå varandra
+när hemsidan blir för smal. Samma sak har jag gjort med logotyperna i vår footer, nu finns det alltså inga element som går utanför hemsidan på bredden.
+Jag har till sist gjort den inlänkade reklamfilmen responsiv så att det aldrig blir bredare än vad hemsidan är. Det sista vi har kvar av konstruktionsstadiet är att 
 lägga in ett kommentarsystem.
