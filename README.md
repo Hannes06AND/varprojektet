@@ -19,7 +19,8 @@ Vecka 17:
 Idag har vi lagt in bilder med länkar till olika sociala medier i vår footer och vi har även börjat applicera Bootstrap Grid på våran layout för hemsidan.
 
 Vecka 18:
-Idag har vi mer eller mindre slutfört vår layout för hemsidan och löst våra problem med Bootstrap Grid. Vi har även uppdaterat katalogen i Github
-med alla nya filer. Det sista vi har kvar av konstruktionsstadiet är att lägga in ett kommentarsystem samt göra klart sidans underkategorier och lägga in
-några enstaka Bootstrap komponenter. Vi har även gjort den inlänkade reklamfilmen responsiv så att det aldrig blir bredare än hemsidan utan anpassar sig istället 
-till storleken på sidan.
+Idag har vi färdigställt vår layout för hemsidan och löst våra problem med Bootstrap Grid. Vi har även uppdaterat katalogen i Github
+med alla nya filer. Vi har också lagt in våra digitala visitkort under "Our Team". Vi hämtade "cards" från Bootstrap och använde flexbox för att få dessa att lägga sig ovanpå varandra
+när hemsidan blir för smal. Samma sak har vi gjort med logotyperna i vår footer, nu finns det alltså inga element som går utanför hemsidan på bredden.
+Vi har även gjort den inlänkade reklamfilmen responsiv så att det aldrig blir bredare än vad hemsidan är. Det sista vi har kvar av konstruktionsstadiet är att 
+lägga in ett kommentarsystem.
