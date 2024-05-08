@@ -24,3 +24,5 @@ med alla nya filer. Jag har också lagt in våra digitala visitkort under "Our T
 när hemsidan blir för smal. Samma sak har jag gjort med logotyperna i vår footer, nu finns det alltså inga element som går utanför hemsidan på bredden.
 Jag har till sist gjort den inlänkade reklamfilmen responsiv så att det aldrig blir bredare än vad hemsidan är. Det sista vi har kvar av konstruktionsstadiet är att 
 lägga in ett kommentarsystem.
+
+Vecka 19: Under den här veckan har jag installerat ett kommentarsfält och har även optimerat hemsidans layout för mobila enheter genom att använda Bootstrap Grid.
