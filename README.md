@@ -25,4 +25,5 @@ när hemsidan blir för smal. Samma sak har jag gjort med logotyperna i vår foo
 Jag har till sist gjort den inlänkade reklamfilmen responsiv så att det aldrig blir bredare än vad hemsidan är. Det sista vi har kvar av konstruktionsstadiet är att 
 lägga in ett kommentarsystem.
 
-Vecka 19: Under den här veckan har jag installerat ett kommentarsfält och har även optimerat hemsidans layout för mobila enheter genom att använda Bootstrap Grid.
+Vecka 19: Under den här veckan har jag installerat ett kommentarsfält och har även optimerat hemsidans layout för mobila enheter genom att använda Bootstrap Grid. Jag har även lagt in en "accordion" 
+från Bootstrap med ytterligare information om produkten.
