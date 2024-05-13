@@ -27,3 +27,6 @@ lägga in ett kommentarsystem.
 
 Vecka 19: Under den här veckan har jag installerat ett kommentarsfält och har även optimerat hemsidans layout för mobila enheter genom att använda Bootstrap Grid. Jag har även lagt in en "accordion" 
 från Bootstrap med ytterligare information om produkten.
+
+Vecka 20: Nu har jag installerat ett verktyg för besökaranalys på hemsidan. Vi använder oss av Matomo där man klistrar in JavaScript i alla HTML-dokument som ingår. För att sedan kolla statistik, går man in på en
+egen URL som ligger hos Matomo.
