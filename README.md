@@ -33,4 +33,7 @@ jag gjort en W3C-validering av både CSS-dokument och HTML-dokument. Slarvfel ha
 Vecka 20: 
 Under den här veckan har jag installerat ett verktyg för besökaranalys på hemsidan. Vi använder oss av Matomo där man klistrar in JavaScript i alla HTML-dokument som ingår i webbplatsen. För att sedan kolla statistik, går man in på en
 egen URL som ligger hos Matomo. Jag har även löst ett problem med vår "accordion" där utseendet från Bootstrap först inte applicerades på dessa element. Därefter har vi uppdaterat vår Style Guide där vi t.ex. har bytt primärfärg och har lagt
-in uppdaterade wireframes med mobilversionen inkluderad. Till sist har vi påbörjat testningen av vår hemsida och vi har hittills testat kontrast och gjort ett hastighetstest. Det vi har kvar är ett usabilitytest, ett accessibilitytest och en extra validering av våra dokument vilket vi gör via W3C. 
+in uppdaterade wireframes med mobilversionen inkluderad. Till sist har vi påbörjat testningen av vår hemsida och vi har hittills testat kontrast och gjort ett hastighetstest. Det vi har kvar är ett usabilitytest, ett accessibilitytest och en extra validering av våra dokument vilket vi gör via W3C.
+
+Vecka 21: 
+Denna fredag har vi fortsatt med tester och uppdatering av vårt designsystem. Jag har även bytt vissa selektorer från ID:s till klasser för att förbättra förutsättningarna att bygga ut hemsidan eller göra ändringar i framtiden.
