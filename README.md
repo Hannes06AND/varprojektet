@@ -37,3 +37,6 @@ in uppdaterade wireframes med mobilversionen inkluderad. Till sist har vi påbö
 
 Vecka 21: 
 Denna fredag har vi fortsatt med tester och uppdatering av vårt designsystem. Jag har även bytt vissa selektorer från ID:s till klasser för att förbättra förutsättningarna att bygga ut hemsidan eller göra ändringar i framtiden.
+
+Vecka 22:
+Idag har vi haft presentationer av våra färdiga webbsidor, resterande delen av lektionen har vi ägnat oss åt att göra det sista provet.
